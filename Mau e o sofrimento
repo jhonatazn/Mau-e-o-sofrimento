@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mau e o Sofrimento</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4a4a4a;
+            color: white;
+            text-align: center;
+            padding: 20px 10px;
+        }
+        main {
+            max-width: 600px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        p {
+            line-height: 1.6;
+            text-align: justify;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4a4a4a;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mau e o Sofrimento</h1>
+    </header>
+    <main>
+        <p>
+            Caminha o mau, sombra errante,  
+            Por estradas frias e sem fim.  
+            O sofrimento é seu fiel amante,  
+            Um eco sombrio dentro de mim.  
+        </p>
+        <p>
+            Corações partidos em sua trilha,  
+            Lágrimas fluem como um rio.  
+            O mundo, sua eterna partilha,  
+            Reflete um céu sombrio.  
+        </p>
+        <p>
+            Mas no horizonte, a luz vacila,  
+            Uma chama tênue, a persistir.  
+            Contra o mau, que nunca cochila,  
+            O espírito tenta resistir.  
+        </p>
+        <p>
+            Pois onde há dor, também há luta,  
+            Uma força oculta, em ebulição.  
+            O mau pode ferir, mas nunca refuta  
+            O poder da esperança no coração.  
+        </p>
+    </main>
+    <footer>
+        <p>&copy; 2024 - Poemas em HTML</p>
+    </footer>
+</body>
+</html>
